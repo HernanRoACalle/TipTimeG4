@@ -1,3 +1,5 @@
+Nome: Hernan Rodrigo Ajacopa Calle RM: 251169
+
 O TipTime
 <img width="1420" height="736" alt="Nossa Nossa" src="https://github.com/user-attachments/assets/c34bff21-9d1d-4be5-b58e-4d054a1c81f6" />
 
